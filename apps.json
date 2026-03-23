@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "图片拼接Pro",
+            "name_en": "Photo Collage Pro",
+            "bundleId": "com.yks.picmerger.cn",
+            "icon": "https://example.com/icon1.png",
+            "url": "https://apps.apple.com/cn/app/id123456789"
+        }
+    ]
+}
